@@ -66,3 +66,4 @@ However, there are quite a few things to do to make the service production-ready
 * authentication to /register endpoint
 * use signed cloudfront urls (to avoid exposing cloudfront publicly)
 * validate inputs
+* replace default api gateway url with custom url prefix
