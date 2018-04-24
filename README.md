@@ -49,7 +49,7 @@ for the aws gateway api and can be customized.
 #### Register a new shortened url
 
 ```bash
-curl -v -X POST -d key=def -d url=http://google.com https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/
+curl -v -X POST -d key=def -d url=http://google.com https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/register
 ```
 
 ### Make use of the shortened url
