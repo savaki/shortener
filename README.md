@@ -44,7 +44,7 @@ I've already preconfigured a shortened url, def, that will forward you to google
 prefix, https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging, is the default url
 for the aws gateway api and can be customized.
 
-[https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/def](https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/def})
+[https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/def](https://6vrp7g0fqf.execute-api.us-east-1.amazonaws.com/staging/def)
 
 #### Register a new shortened url
 
