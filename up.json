@@ -1,0 +1,10 @@
+{
+  "name": "shortener",
+  "regions": [
+    "us-east-1"
+  ],
+  "environment": {
+    "S3_BUCKET": "lovingly-shortened",
+    "CODEBASE": "http://d1gssjv4jvarn7.cloudfront.net"
+  }
+}
